@@ -1,2 +1,2 @@
 # Learning-Java
-Practicing questions in the java language
+Practice questions in Java
